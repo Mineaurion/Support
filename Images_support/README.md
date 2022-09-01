@@ -1,0 +1,1 @@
+Merci d'importer vos images dans ce dossier avant de les ajoutés à votre ticket
